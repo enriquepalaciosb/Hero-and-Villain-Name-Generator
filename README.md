@@ -23,18 +23,12 @@ Project is created with:
 
 ## Usage
 Demonstrate simple tasks by utilizng Node and Express.
-Must use the following package:
-
-`$ npm superheroes`
-`$ npm supervillains`
-
+Please check the package for neccessary installs.
 
 ## Project Status
 Project is: _in progress_ 
 
-
 ## Room for Improvement
-
 Room for improvement:
 - Moving it from console to a page.
 
