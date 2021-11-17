@@ -36,5 +36,5 @@ To do:
 - Create a HTML/CSS file.
 
 ## Acknowledgements
-- This project was based on [this material](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+- This project was based on [these materials](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 - Many thanks to The App Brewery
