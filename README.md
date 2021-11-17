@@ -1,4 +1,4 @@
-# RandomNameGenerator
+# Random Hero & Villain Name Generator
 
 ## Table of Contents
 * [General Info](#general-information)
