@@ -11,25 +11,22 @@
 
 
 ## General Information
-- This project is my take on a weather application with Node.
+- A name generator that will give you a random superhero or villain name.
 
 ## Technologies Used
 Project is created with:
 * Node.JS
-* HTML
-* Express
+* Javascript
 
 ## Features
-List the ready features here:
-- Can get weather updates in any city
-- Calculate your BMI
+- Can give you both a random superhero and villain name.
 
 ## Usage
 Demonstrate simple tasks by utilizng Node and Express.
 Must use the following package:
 
-`$ npm express`
-`$ npm body-parser`
+`$ npm superheroes`
+`$ npm supervillains`
 
 
 ## Project Status
@@ -39,11 +36,11 @@ Project is: _in progress_
 ## Room for Improvement
 
 Room for improvement:
-- Stylings
+- Moving it from console to a page.
 
 To do:
-- Improve on HTML/CSS file.
+- Create a HTML/CSS file.
 
 ## Acknowledgements
-- This project was based on [this tutorial](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/18125183#overview).
+- This project was based on [this material](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 - Many thanks to The App Brewery
